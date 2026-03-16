@@ -1,6 +1,6 @@
 """
 Web Enumeration Tool - For Ethical Hackers & Security Researchers
-Author: [Your Name]
+Author: Abdullah Bin Owais
 Description: A simple tool for basic web reconnaissance and enumeration
 Disclaimer: Use only on systems you own or have permission to test
 """
